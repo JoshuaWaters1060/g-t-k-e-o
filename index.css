@@ -15,7 +15,7 @@ header {
 .profile-pic {
     display: block;
     margin: 20px auto;
-    width: 150px; /* Adjust the size as needed */
+    width: 300px; /* Adjust the size as needed */
     height: auto;
     border-radius: 50%; /* Optional: make it circular */
 }
