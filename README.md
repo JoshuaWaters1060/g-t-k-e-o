@@ -6,7 +6,7 @@ This project provides template code for Hello World for the Web and is based on
 Joshua Waters [email:joshuatwaters@lewisu.edu](mailto:joshuatwaters@lewisu.edu)
 
 ## Credits
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
+chatgpt for the sample HTML and CSS code.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
