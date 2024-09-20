@@ -1,6 +1,4 @@
-# Hello World for the Web Template
-This project provides template code for Hello World for the Web and is based on 
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
+# Getting to Know Each Other
 
 ## Author
 Joshua Waters [email:joshuatwaters@lewisu.edu](mailto:joshuatwaters@lewisu.edu)
